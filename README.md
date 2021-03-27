@@ -10,6 +10,10 @@ Selenium - это инструмент для автоматизации дей�
 - [ChromeDriver](https://chromedriver.chromium.org/)
 - [Chrome](https://www.google.ru/chrome/)
 
+```
+pip install selenium
+```
+
 ## Полезные ссылки
 
 [Курс Stepik](https://stepik.org/course/575/info)
